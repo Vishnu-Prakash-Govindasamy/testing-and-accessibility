@@ -4,8 +4,11 @@
   "private": true,
   "proxy": "http://localhost:8000",
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
     "@exuanbo/file-icons-js": "^3.3.0",
     "@monaco-editor/react": "^4.4.6",
+    "@mui/material": "^6.1.5",
     "@playwright/test": "^1.28.1",
     "@primer/octicons-react": "^17.9.0",
     "@prisma/client": "^4.7.0",
